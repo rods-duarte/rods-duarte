@@ -2,8 +2,8 @@
 ![](https://web.archive.org/web/20070125154021/http://ca.geocities.com:80/fightfall/image/welcome2.gif)
 
 ### My name is Rodrigo!
-- I'am learning front and back-end at Driven Education.
-- I'm also studying Computer Science at Federal University of ABC (UFABC).
+- I'm a full-stack developer.
+- Currently studying Computer Science at Federal University of ABC (UFABC).
 
 ### My stack
 
